@@ -453,7 +453,7 @@ public class Game
 											}
 									}
 								arrayGame[playerRow][playerCol]=" @ ";
-							}
+							}//Hello?
 						for(int row = 0; row<arrayGame.length; row++)
 							{
 								System.out.println(" ");
