@@ -461,7 +461,7 @@ public class Game
 									{
 										System.out.print(arrayGame[row][col]);
 									}
-							}
+							}//Hello?
 					}
 				public static void doMove()
 				{
