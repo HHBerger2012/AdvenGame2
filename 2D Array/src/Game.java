@@ -455,13 +455,13 @@ public class Game
 								arrayGame[playerRow][playerCol]=" @ ";
 							}//Hello?
 						for(int row = 0; row<arrayGame.length; row++)
-							{
+							{ 
 								System.out.println(" ");
 								for(int col = 0; col<arrayGame[0].length;col++)
 									{
 										System.out.print(arrayGame[row][col]);
 									}
-							}
+							}//Hello?
 					}
 				public static void doMove()
 				{
